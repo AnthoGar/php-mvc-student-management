@@ -2,12 +2,8 @@
 
 $host = "localhost";
 $dbname = "mi_mvc";
-$user = "
-    //Tu usuario
-";
-$password = "
-    //Tu contraseña
-";
+$user = "root"; 
+$password = ""; // Cambia esto a tu contraseña de MySQL
 
 try {
     $conexion = new PDO(

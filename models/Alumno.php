@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . "/../config/conexion.php";
+require_once __DIR__ . "/../config/conexion.example.php";
 //Una clase es una plantilla que usara 
 //un Objeto para poder instanciarse y utilizar
 //Sus propiedades y metodos
